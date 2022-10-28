@@ -1,0 +1,15 @@
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\bin\Debug\net6.0\csharp-l-systems.exe
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\bin\Debug\net6.0\csharp-l-systems.deps.json
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\bin\Debug\net6.0\csharp-l-systems.runtimeconfig.json
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\bin\Debug\net6.0\csharp-l-systems.dll
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\bin\Debug\net6.0\ref\csharp-l-systems.dll
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\bin\Debug\net6.0\csharp-l-systems.pdb
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\obj\Debug\net6.0\csharp-l-systems.csproj.AssemblyReference.cache
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\obj\Debug\net6.0\csharp-l-systems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\obj\Debug\net6.0\csharp-l-systems.AssemblyInfoInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\obj\Debug\net6.0\csharp-l-systems.AssemblyInfo.cs
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\obj\Debug\net6.0\csharp-l-systems.csproj.CoreCompileInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\obj\Debug\net6.0\csharp-l-systems.dll
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\obj\Debug\net6.0\ref\csharp-l-systems.dll
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\obj\Debug\net6.0\csharp-l-systems.pdb
+C:\Users\vivian.zitek\Programming\cSharp\csharp-l-systems\obj\Debug\net6.0\csharp-l-systems.genruntimeconfig.cache
